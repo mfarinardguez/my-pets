@@ -11,6 +11,6 @@ export class DashboardPage extends LitElement {
 
 declare global {
   interface HTMLElementTagNameMap {
-    'home-page': DashboardPage
+    'dashboard-page': DashboardPage
   }
 }
