@@ -10,10 +10,10 @@
 
 **My Pets** es una aplicación web para guardar y gestionar toda la información sobre tus mascotas. La web permite:
 
-✨ **Ver información sobre nuestras mascotas y compartirla con los demás**
-🧴 **El tipo de comida que le gusta** 
-💬 **Sus alergias**
-⭐ **Su historial veterinario**
+ - **Ver información sobre nuestras mascotas y compartirla con los demás**
+ - **El tipo de comida que le gusta** 
+ - **Sus alergias**
+ - **Su historial veterinario**
 
 ## Instalación
 
