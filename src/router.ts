@@ -6,5 +6,6 @@ export function initRouter() {
 
   router.setRoutes([
     { path: '/', component: 'dashboard-page' },
+    { path: '/login', component: 'login-page' },
   ])
 }
